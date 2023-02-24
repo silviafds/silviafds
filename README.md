@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-**silviafds/silviafds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Olá, seja bem vindo ao meu Github.
 ## Meu nome é Silvia.
 
@@ -17,5 +15,5 @@
 
 ## Tecnologias usadas
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
           
