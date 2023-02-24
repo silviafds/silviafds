@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 **silviafds/silviafds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Olá, seja bem vindo ao meu Github.
 ## Meu nome é Silvia.
 
-Here are some ideas to get you started:
+## Algumas coisas sobre mim
 
 - 🔭 No momento estou em busca de estágio na area de desenvolvimento web.
 - 🌱 Atualmente estou estudando as tecnologias: Java e SpringBoot.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Caso queira tirar alguma dúvida ou perguntar algo, envia no email: silviafernandes974@gmail.com ou mensagem pelo linkedin.
 - 📫 Pode entrar em contato comigo pelo: link linkedin.
 - ⚡ Hoje estudo na Universidade Federal do Rio Grande do Norte. Estou cursando a graduação de Tecnologia da Informação com ênfase em Desenvolvimento de Software.
--->
+
 
 ## Tecnologias usadas
 
