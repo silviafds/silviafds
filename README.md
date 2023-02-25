@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem vindo ao meu Github.
+# 👋 Olá, seja bem-vindo ao meu Github.
 ## Meu nome é Silvia.
 
 ## Algumas coisas sobre mim
