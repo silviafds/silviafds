@@ -3,7 +3,6 @@
 
 ## Algumas coisas sobre mim
 
-- 🔭 No momento estou em busca de estágio na area de desenvolvimento web.
 - 🌱 Atualmente estou estudando as tecnologias: Java e Spring Boot.
 - 👯 Busco colaborar com algum projeto na área de desenvolvimento e sempre busco me aprimorar na área de tecnologia.
 - 💬 Caso queira tirar alguma dúvida ou perguntar algo, envia no email: silviafernandes974@gmail.com ou mensagem pelo linkedin.
