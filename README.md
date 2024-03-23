@@ -50,6 +50,10 @@
 
 <div style="display:flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  width="70" height="70" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="70" height="70" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="70" height="70" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70" height="70" style="margin-right: 10px;" />
+
 </div>
           
 ## Contato
