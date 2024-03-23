@@ -12,7 +12,7 @@
 
 ## Tecnologias usadas
 
-#### Linguagens de Programação
+### Linguagens de Programação
 
 <div style="display:flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" 
