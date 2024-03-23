@@ -15,13 +15,49 @@
 #### Linguagens de Programação
 
 <div style="display:flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" height="70" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="70" height="70" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70" height="70" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="70" height="70" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="Java"
+         title="Java"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="TypeScript"
+         title="TypeScript"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="JavaScript"
+         title="JavaScript"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="Python"
+         title="Python"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="C++"
+         title="C++"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+         width="70" 
+         height="70" 
+         alt="C"
+         title="C"
+    />
 </div>
+
 
 ### Banco de Dadados
 
