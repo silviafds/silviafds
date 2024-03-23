@@ -15,7 +15,7 @@
 #### Linguagens de Programação
 
 <div style="display:flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" 
          width="70" 
          height="70" 
          style="margin-right: 10px;" 
@@ -53,46 +53,129 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
          width="70" 
          height="70" 
+         style="margin-right: 10px;" 
          alt="C"
          title="C"
     />
 </div>
 
-
-### Banco de Dadados
+### Banco de Dados
 
 <div style="display:flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="70" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70" height="70" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="PostgreSQL"
+         title="PostgreSQL"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="Microsoft SQL Server"
+         title="Microsoft SQL Server"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="MySQL"
+         title="MySQL"
+    />
 </div>
 
 ### Front-end
 
 <div style="display:flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="70" height="70" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="70" height="70" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70" height="70" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"v width="70" height="70" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;"
+         alt="React"
+         title="React"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="Tailwind CSS"
+         title="Tailwind CSS"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="HTML5"
+         title="HTML5"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="CSS3"
+         title="CSS3"
+    />
 </div>
 
 ### Framework
 
 <div style="display:flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="70" height="70" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="Spring"
+         title="Spring"
+    />
 </div>
 
 ### Outros
 
 <div style="display:flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  width="70" height="70" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="70" height="70" style="margin-right: 20px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="70" height="70" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70" height="70" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70" height="70" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="70" height="70" style="margin-right: 10px;"/>
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;"
+         alt="Docker"
+         title="Docker"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain-wordmark.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 20px;" 
+         alt="JUnit"
+         title="JUnit"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;"
+         alt="Arduino"
+         title="Arduino"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="Git"
+         title="Git"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;" 
+         alt="Linux"
+         title="Linux"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original-wordmark.svg" 
+         width="70" 
+         height="70" 
+         style="margin-right: 10px;"
+         alt="Ubuntu"
+         title="Ubuntu"
+    />
 </div>
+
           
 ## Contato
 
