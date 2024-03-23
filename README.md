@@ -3,11 +3,11 @@
 
 ## Algumas coisas sobre mim
 
-- 🌱 Atualmente estou estudando as tecnologias: Java e Spring Boot.
+- 🌱 Atualmente estou estudando as tecnologias: Java, Spring Boot, React e TailwindCSS.
 - 👯 Busco colaborar com algum projeto na área de desenvolvimento e sempre busco me aprimorar na área de tecnologia.
-- 💬 Caso queira tirar alguma dúvida ou perguntar algo, envia no email: silviafernandes974@gmail.com ou mensagem pelo linkedin.
+- 💬 Caso queira tirar alguma dúvida ou perguntar algo, envia mensagem pelo linkedin.
 - 📫 Pode entrar em contato comigo pelo: https://www.linkedin.com/in/silvia-fernandes-13b329224/
-- ⚡ Hoje estudo na Universidade Federal do Rio Grande do Norte. Estou cursando a graduação de Tecnologia da Informação com ênfase em Desenvolvimento de Software.
+- ⚡ Hoje estudo na Universidade Federal do Rio Grande do Norte. Estou cursando a graduação de Tecnologia da Informação com ênfase em Engenharia de Software.
 
 
 ## Tecnologias usadas
