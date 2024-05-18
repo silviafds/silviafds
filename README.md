@@ -16,8 +16,8 @@
 
 <div style="display:flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" 
-         width="70" 
-         height="70" 
+         width="50" 
+         height="50" 
          style="margin-right: 10px;" 
          alt="Java"
          title="Java"
