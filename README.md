@@ -138,12 +138,12 @@
          alt="JUnit"
          title="JUnit"
     />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain-wordmark.svg" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
          width="50" 
          height="50" 
          style="margin-right: 20px;" 
-         alt="JUnit"
-         title="JUnit"
+         alt="Cypress"
+         title="Cypress"
     />
 </div>
 
