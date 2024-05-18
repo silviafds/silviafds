@@ -157,13 +157,6 @@
          alt="Docker"
          title="Docker"
     />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain-wordmark.svg" 
-         width="50" 
-         height="50" 
-         style="margin-right: 20px;" 
-         alt="JUnit"
-         title="JUnit"
-    />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" 
          width="50" 
          height="50" 
