@@ -89,6 +89,14 @@
          alt="MySQL"
          title="MySQL"
     />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+         width="50" 
+         height="50" 
+         style="margin-right: 10px;" 
+         alt="Oracle DB"
+         title="Oracle DB"
+    />
+          
 </div>
 
 ### Front-end
