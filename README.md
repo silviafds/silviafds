@@ -35,6 +35,13 @@
          alt="JavaScript"
          title="JavaScript"
     />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" 
+         width="50" 
+         height="50" 
+         style="margin-right: 10px;" 
+         alt="Kotlin"
+         title="Kotlin"
+    />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
          width="50" 
          height="50" 
@@ -87,6 +94,13 @@
 ### Front-end
 
 <div style="display:flex;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+         width="50" 
+         height="50" 
+         style="margin-right: 10px;" 
+         alt="Angular"
+         title="Angular"
+    />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" 
          width="50" 
          height="50" 
